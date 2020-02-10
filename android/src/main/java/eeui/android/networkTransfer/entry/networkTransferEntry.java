@@ -19,7 +19,7 @@ public class networkTransferEntry {
 
         //1、注册weex模块
         try {
-            WXSDKEngine.registerModule("networkTransfer", AppnetworkTransferModule.class);
+            WXSDKEngine.registerModule("eeuiNetwork", AppnetworkTransferModule.class);
         } catch (WXException e) {
             e.printStackTrace();
         }

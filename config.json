@@ -1,0 +1,6 @@
+{
+	"desc": "文件上传、文件下载",
+	"requireFormatName": "eeuiNetwork",
+	"requireName": "eeui/network",
+	"title": "文件传输"
+}
