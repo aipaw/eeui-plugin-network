@@ -13,7 +13,7 @@
 
 @implementation AppnetworkTransferModule
 
-WX_PlUGIN_EXPORT_MODULE(networkTransfer, AppnetworkTransferModule)
+WX_PlUGIN_EXPORT_MODULE(eeuiNetwork, AppnetworkTransferModule)
 WX_EXPORT_METHOD(@selector(download::))
 WX_EXPORT_METHOD(@selector(upload::))
 
